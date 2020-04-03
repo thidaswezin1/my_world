@@ -1,0 +1,62 @@
+{
+  "tab_home": "Casa",
+  "tab_categories": "Categorías",
+  "tab_profile": "Perfil",
+  "tab_notifications": "Notificaciones",
+  "tab_bag": "Bolso",
+  "Home": "ホーム",
+  "Attendance": "出席",
+  "Leave": "去る",
+  "Overtime": "時間とともに",
+  "Employee": "社員",
+  "Announcement": "発表",
+  "Setting": "セッティング",
+  "Logout": "ログアウト",
+
+  "CTCI": "クリックしてチェックイン",
+  "CTCO": "クリックしてチェックアウト",
+
+  "CI": "チェックイン",
+  "CO": "チェックアウト",
+
+  "ToSubmit": "提出する",
+  "ToApprove": "承認するために",
+  "ToRefuse": "拒む",
+  "Approved": "承認済み",
+
+  "Draft": "ドラフト",
+  "Normal": "正常",
+  "LCEC": "レイトチェックインアーリーチェックアウト",
+  "HL": "半休み",
+  "FL": "全休",
+  "Absent": "欠席",
+
+  "Date": "日付",
+  "MI": "マニュアル入力",
+  "MO" : "マニュアル出力",
+  "Comment": "コメント",
+  "RI": "理由",
+  "RO": "理由アウト",
+  "AD": "承認日",
+  "AB": "によって承認された",
+  "Type": "タイプ",
+  "ST": "始まる時間",
+  "ET": "終了時間",
+  "Duration": "期間",
+  "Description": "説明",
+
+  "FD": "開始日",
+  "TD": "現在まで",
+
+  "Submit": "参加する",
+  "RR": "拒否をリクエスト",
+
+  "Email": "Eメール",
+  "Password": "パスワード",
+  "Login": "ログインする",
+  "FP": "パスワードを忘れた?"
+
+
+
+
+}

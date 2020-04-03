@@ -1,0 +1,62 @@
+{
+  "tab_home": "Home",
+  "tab_categories": "Categories",
+  "tab_profile": "Profile",
+  "tab_notifications": "Notifications",
+  "tab_bag": "Bag",
+  "Home": "Home",
+  "Attendance": "Attendance",
+  "Leave": "Leave",
+  "Overtime": "Overtime",
+  "Employee": "Employee",
+  "Announcement": "Announcement",
+  "Setting": "Setting",
+  "Logout": "Logout",
+
+  "CTCI": "Click to Check In",
+  "CTCO": "Click to Check Out",
+
+  "CI": "Check In",
+  "CO": "Check Out",
+
+  "ToSubmit": "To Submit",
+  "ToApprove": "To Approve",
+  "ToRefuse": "To Refuse",
+  "Approved": "Approved",
+
+  "Draft": "Draft",
+  "Normal": "Normal",
+  "LCEC": "Late Check In/ Early Check Out",
+  "HL": "Half Leave",
+  "FL": "Full Leave",
+  "Absent": "Absent",
+
+  "Date": "Date",
+  "CI": "Check In",
+  "CO": "Check Out",
+  "MI": "Manual In",
+  "MO" : "Manual Out",
+  "Comment": "Comment",
+  "RI": "Reason In",
+  "RO": "Reason Out",
+  "AD": "Approved Date",
+  "AB": "Approved By",
+  "Type": "Type",
+  "ST": "Start Time",
+  "ET": "End Time",
+  "Duration": "Duration",
+  "Description": "Description",
+
+  "FD": "From Date",
+  "TD": "To Date",
+
+  "Submit": "Submit",
+  "RR": "Request Refuse",
+
+  "Email": "Email",
+  "Password": "Password",
+  "Login": "Login",
+  "FP": "Forget Password?"
+
+
+}
